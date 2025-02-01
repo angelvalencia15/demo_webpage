@@ -1,0 +1,90 @@
+html{
+  background-color: tan;
+  font-family: "Verdana", sans-serif;
+  text-align: left;
+  color: beige
+}
+
+h1, footer{
+  text-align: center;
+}
+
+footer{
+  font-size: 10px;
+}
+
+#greetingonlogin, nav {
+  font-size: 14px;
+}
+
+main{
+  border: double;
+  border-color: beige;
+  border-style: solid;
+}
+
+input{
+  background-color: beige;
+}
+
+#usergreeting{
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+#indexmain, #blog, #merchmain{
+  margin-right: 25%;
+}
+
+figcaption{
+  font-size: 10px;
+}
+
+nav{
+  position: fixed;
+  top: 30px;;
+  right:0;
+}
+
+a{
+  color: saddlebrown;
+}
+
+textarea{
+  height: 150px;
+  width: 606px;
+  background-color: beige;
+}
+
+img{
+  scale: 0.7
+}
+table {
+  width: 100%;
+  max-width: 100%; 
+  border: 3px solid saddlebrown;
+  box-sizing: border-box;
+  margin: 100px auto;
+  border-collapse: collapse;
+}
+
+#refshirt, #refwhistle, #refflags, #refwatch{
+  font-size: 10px;
+}
+
+#EmptyP1 {
+    font-size: 18px;
+    font-weight: bold;
+    position: sticky;
+    top: 10px;
+    height: 10px;
+}
+img:hover{
+  opacity: 70%;
+}
+
+#EmptyP2{
+  font-family: "Courier New", monospace;
+}
+
